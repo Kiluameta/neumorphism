@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "neumorphism",
+    "slug": "neumorphism",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
